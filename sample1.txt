@@ -1,0 +1,4 @@
+PROGRAM TESTMIKHAIL;
+BEGIN
+    WRITELN('Welcome to Python PLY and Pascal Universe, Mikhail Cychael');
+END.
